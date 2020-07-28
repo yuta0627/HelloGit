@@ -1,0 +1,36 @@
+!_TAG_FILE_FORMAT       2       /extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED       1       /0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR    Darren Hiebert  /dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME      Exuberant Ctags //
+!_TAG_PROGRAM_URL       http://ctags.sourceforge.net    /official site/
+!_TAG_PROGRAM_VERSION   5.9~svn20110310 //
+Images  script/@ImgList.asp     /^function OnDraw_Images(oNasp, vParam)$/;"     r
+Messages        script/@MsgList.asp     /^function OnDraw_Messages(oNasp, vParam)$/;"   r
+OnCommand_      script/@ImgPost@.asp    /^function OnCommand_(oNasp, vParam)$/;"        f
+OnCommand_      script/@MsgPost@.asp    /^function OnCommand_(oNasp, vParam)$/;"        f
+OnCommand_Back  script/@MsgPost@.asp    /^function OnCommand_Back(oNasp, vParam)$/;"    f
+OnCommand_Confirm       script/@MsgPost@.asp    /^function OnCommand_Confirm(oNasp, vParam)$/;" f
+OnCommand_Post  script/@ImgPost@.asp    /^function OnCommand_Post(oNasp, vParam)$/;"    f
+OnCommand_Post  script/@MsgPost@.asp    /^function OnCommand_Post(oNasp, vParam)$/;"    f
+OnDraw_Images   script/@ImgList.asp     /^function OnDraw_Images(oNasp, vParam)$/;"     f
+OnDraw_Messages script/@MsgList.asp     /^function OnDraw_Messages(oNasp, vParam)$/;"   f
+cmd     script/@ImgList.asp     /^      dim cmd:$/;"    v
+cmd     script/@ImgPost@.asp    /^              dim cmd:$/;"    v
+cmd     script/@MsgList.asp     /^      dim cmd:$/;"    v
+cmd     script/@MsgPost@.asp    /^      dim cmd:$/;"    v
+g_sFPName       script/@ImgPost@.asp    /^dim g_sFPName:$/;"    v
+g_sFPName       script/@MsgPost@.asp    /^dim g_sFPName:$/;"    v
+i       script/@ImgList.asp     /^      dim i:$/;"      v
+i       script/@MsgList.asp     /^      dim i:$/;"      v
+mail    script/@MsgPost@.asp    /^              dim mail:$/;"   v
+nID     script/@ImgPost@.asp    /^              dim nID:$/;"    v
+oTemplator      script/@MsgPost@.asp    /^              dim oTemplator:$/;"     v
+rst     script/@ImgList.asp     /^      dim rst:$/;"    v
+rst     script/@MsgList.asp     /^      dim rst:$/;"    v
+s_sAppWebPath   script/global.inc.asp   /^dim s_sAppWebPath:$/;"        v
+s_sDBCS script/global.inc.asp   /^dim s_sDBCS:$/;"      v
+s_sMailFrom     script/global.inc.asp   /^private s_sMailFrom:$/;"      v
+s_sMailTo       script/global.inc.asp   /^private s_sMailTo:$/;"        v
+s_sSMTPServer   script/global.inc.asp   /^private s_sSMTPServer:$/;"    v
+s_sVersion      script/global.inc.asp   /^dim s_sVersion:$/;"   v
+yuta@yuta-VirtualBox:/home/share/NaspSample_1.0.0.0/NaspSample_1.0.0.0$
